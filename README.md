@@ -1,5 +1,5 @@
 
-# 📦 Hyperlocal Delivery Platform Database (Zepto Clone) – Full SQL Server Project
+# 📦 Hyperlocal Delivery Platform Database – Full SQL Server Project
 
 ## 🛒 Overview
 
@@ -60,9 +60,5 @@ You will learn how to **design**, **build**, **optimize**, **secure**, and **aut
 - Scheduled marketing notifications (Zomato style!)
 
 ## 📩 Connect
-
-- YouTube Channel: https://www.youtube.com/@IshwarAcademy
-- LinkedIn: https://www.linkedin.com/in/ishwar-panchariya
-- GitHub: https://github.com/ishwar-panchariya
 
 # 🎉 Happy Learning and Building!
